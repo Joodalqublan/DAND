@@ -52,4 +52,4 @@ Code : solve the Issue programmatically.
 Test : Make sure that the issue is solved.
 
 
-## By the end of these three stages, that means the wrangle stage has ended. Next is to analyze and visualize.
+### By the end of these three stages, that means the wrangle stage has ended. Next is to analyze and visualize.
